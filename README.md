@@ -15,7 +15,8 @@ To be added.
 
 These tabulations are made availabe as csv/tsv. File format follows structure:
 
-LLMmetadata_YYYY-MM-DD.{csv,tsv}
+LLMmetadata_YYYY-MM-DD.{csv,tsv} for a list generated at given time,
+or LLMmetadata_latest.{csv,tsv} for the latest working version.
 
 ### 2025-05-12
 
